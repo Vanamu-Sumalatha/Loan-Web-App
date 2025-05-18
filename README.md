@@ -195,4 +195,4 @@ Feel free to contribute to this project by creating issues or submitting pull re
 ---
 
 ## Contact
-For any inquiries, reach out to **M. Ravikumar Naik** at [sumalathavanamu@gmail.com](mailto:sumalathavanamu@gmail.com).
+For any inquiries, reach out to **Vanamu Sumalatha** at [sumalathavanamu@gmail.com](mailto:sumalathavanamu@gmail.com).
