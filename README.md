@@ -155,7 +155,7 @@ src/
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ravikumar1032/loan-app.git
+   git clone https://github.com/Vanamu-Sumalatha/loan-app.git
    cd loan-app
    ```
 
@@ -195,4 +195,4 @@ Feel free to contribute to this project by creating issues or submitting pull re
 ---
 
 ## Contact
-For any inquiries, reach out to **M. Ravikumar Naik** at [ravikumarnaik1015@gmail.com](mailto:ravikumarnaik1015@gmail.com).
+For any inquiries, reach out to **M. Ravikumar Naik** at [sumalathavanamu@gmail.com](mailto:sumalathavanamu@gmail.com).
